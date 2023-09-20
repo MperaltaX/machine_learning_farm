@@ -8,7 +8,7 @@ lo cual es muy importante en el ambito ganadero.
 
 ## Funcionamiento
 Pestaña "Entrenar y Ejecutar"
--  ![](https://i.imgur.com/8nWILLT.png)
+-  ![]([https://i.imgur.com/8nWILLT.png](https://imgur.com/kiBgHW0))
 -  Porcentaje del conjunto de pruebas: Es el porcentaje que se tomará de tu archivo "data.csv" para comparar el entrenamiento del modelo y obtener un porcentaje de acierto.
 -  Seleccione el archivo CSV de entrenamiento: Selecciona el archivo "data.csv", que servirá como entrenamiento para que el modelo aprenda.
 -  Seleccione el archivo a predecir: Selecciona el archivo que el modelo deverá predecir. Este archivo no debe contener la última columna "menor-mayor-30". Te dejo el archivo "data_to_predict.csv" para que puedas probarlo. 
