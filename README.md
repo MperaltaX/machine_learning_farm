@@ -15,5 +15,5 @@ Pestaña "Entrenar y Ejecutar"
 -  Ejecutar SVM: Ejecuta el modelo, se entrena y devuelve el porcentaje de acierto del algoritmo, además crea un nuevo CSV con los resultados de la predicción de los datos del archivo "data_to_predict.csv".
 
 Pestaña "Entrenar y Ejecutar"
--  ![][(https://imgur.com/hvi9kdg)
+-  ![][(https://i.imgur.com/hvi9kdg.png)
 -  
