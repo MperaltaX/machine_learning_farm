@@ -6,6 +6,8 @@ Te dejo datos CSV para que puedas realizar una prueba y comprender el funcionami
 El algoritmo es entrenado mediante archivos CSV con Dep's de madre y padre para obtener el resultado de si pesará más o menos de 30 kilos al nacer, 
 lo cual es muy importante en el ambito ganadero.
 
+Si deseas usar tu propios datos, solo debes reemplazar los datos en las columnas de los archivos de prueba.
+
 ## Pestaña "Entrenar y Ejecutar"
 Aquí entrenaremos el modelo y realizaremos una predicción. 
   ![](https://i.imgur.com/kiBgHW0.png)
